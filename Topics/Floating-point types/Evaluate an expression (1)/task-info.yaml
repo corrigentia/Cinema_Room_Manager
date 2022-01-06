@@ -1,0 +1,16 @@
+type: code
+custom_name: Evaluate an expression
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4509#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 04 Jan 2022 13:45:46 UTC
+record: -1
